@@ -1,4 +1,4 @@
 Hacker-rank
 ===========
 
-Hackerrank solutions
+Hackerrank solutions implemented mainly in Scala and Java
